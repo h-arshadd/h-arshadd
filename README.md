@@ -1,6 +1,6 @@
 # Huda Arshad
 
-Computer Science student building full-stack AI systems — from real-time computer vision to agentic LLM pipelines. First-authored research published at IEEE IBCAST 2025.
+Computer Science student building full-stack AI systems, from real-time computer vision to agentic LLM pipelines. First-authored research published at IEEE IBCAST 2025.
 
 BS Computer Science, National University of Modern Languages (NUML) · CGPA 3.7
 Currently exploring agentic AI: LLM agents layered over classical CS pipelines
@@ -12,9 +12,9 @@ Currently exploring agentic AI: LLM agents layered over classical CS pipelines
 ## Projects
 
 **[Smart Surveillance & Attendance System](https://github.com/h-arshadd/faceattend-pro)**
-*Final Year Project — full-stack agentic AI system*
+*Final Year Project: full-stack agentic AI system*
 
-Real-time face recognition built on InsightFace (ArcFace) with cosine-similarity matching, reaching 95% recognition accuracy. Supports runtime user registration via webcam or image upload, with automatic augmentation and duplicate-face detection — no retraining required. Two LLM agents (Llama 3.3-70B via Groq) extend the system: an intruder detection agent that issues real-time, threat-level-classified alerts, and a report assistant that answers natural-language questions grounded in live attendance data.
+Real-time face recognition built on InsightFace (ArcFace) with cosine-similarity matching, reaching 95% recognition accuracy. Supports runtime user registration via webcam or image upload, with automatic augmentation and duplicate-face detection. No retraining required. Two LLM agents (Llama 3.3-70B via Groq) extend the system: an intruder detection agent that issues real-time, threat-level-classified alerts, and a report assistant that answers natural-language questions grounded in live attendance data.
 
 `Python` `OpenCV` `InsightFace` `Streamlit` `Groq API`
 
@@ -37,9 +37,9 @@ Predicts product sales from pricing, discount, marketing spend, and customer seg
 ## Research
 
 **Brain Tumor Cell Grading & Survival Prediction using MI-based Feature Selection and GenAI Approach**
-First author · IEEE IBCAST 2025 — International Bhurban Conference on Applied Sciences & Technology
+First author · IEEE IBCAST 2025 (International Bhurban Conference on Applied Sciences & Technology)
 
-A hybrid framework combining U-Net segmentation, GAN-based synthetic tumor generation, and MI-based feature selection for brain tumor grading and survival prediction on the BraTS 2022/23 dataset — achieving 96.5% classification accuracy and a C-Index of 0.89, outperforming SVM, CNN, and U-Net baselines.
+A hybrid framework combining U-Net segmentation, GAN-based synthetic tumor generation, and MI-based feature selection for brain tumor grading and survival prediction on the BraTS 2022/23 dataset, achieving 96.5% classification accuracy and a C-Index of 0.89, outperforming SVM, CNN, and U-Net baselines.
 
 ---
 
