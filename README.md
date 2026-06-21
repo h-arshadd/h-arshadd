@@ -1,10 +1,10 @@
-# Hi, I'm Huda Arshad 👋
+# Hi, I'm Huda Arshad 
 
 Computer Science student building AI-powered, full-stack systems — with first-authored research published at **IEEE IBCAST 2025**. I like turning machine learning and computer vision into things that actually run, not just notebooks.
 
-🎓 BS Computer Science @ National University of Modern Languages (NUML) — CGPA 3.7
-🌱 Currently exploring agentic AI systems (LLM agents + classical CS pipelines)
-📫 [LinkedIn](https://linkedin.com/in/huda-a-bb4496319) · hudaarshad2004@email.com
+BS Computer Science @ National University of Modern Languages (NUML) — CGPA 3.7
+Currently exploring agentic AI systems (LLM agents + classical CS pipelines)
+[LinkedIn](https://linkedin.com/in/huda-a-bb4496319) · hudaarshad2004@email.com
 
 ---
 
