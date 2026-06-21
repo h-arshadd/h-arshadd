@@ -2,7 +2,7 @@
 
 Computer Science student building full-stack AI systems, from real-time computer vision to agentic LLM pipelines. First-authored research published at IEEE IBCAST 2025.
 
-BS Computer Science · CGPA 3.7
+BS Computer Science · CGPA 3.7.
 Currently exploring agentic AI: LLM agents layered over classical CS pipelines
 
 [LinkedIn](https://linkedin.com/in/huda-a-bb4496319) · [Email](mailto:hudaarshad2004@gmail.com)
