@@ -10,7 +10,7 @@ Computer Science student building AI-powered, full-stack systems — with first-
 
 ### 🚀 Featured Projects
 
-**[Smart Surveillance & Attendance System](https://github.com/h-arshadd/attendface-pro)** — Final Year Project
+**[Smart Surveillance & Attendance System](https://github.com/h-arshadd/faceattend-pro)** — Final Year Project
 Full-stack agentic AI system combining computer vision and LLMs.
 - Real-time face recognition using **InsightFace (ArcFace)** with cosine-similarity matching — **95% recognition accuracy**
 - Runtime user registration via webcam/image upload, with automatic augmentation and duplicate-face detection — no retraining needed
@@ -23,7 +23,7 @@ Hybrid symbolic + LLM system that autonomously generates conflict-free academic 
 - Accepts natural-language constraints and outputs a deterministically validated timetable in CSV format
 `Python` `Pandas` `Google Gemini API`
 
-**E-Commerce Sales Predictor**
+**[E-Commerce Sales Predictor](https://github.com/h-arshadd/E-commerce_sales_predictor)**
 Full-stack ML web app for predicting product sales.
 - Built a sales prediction model using pricing, discount, marketing spend, and customer segment
 - Full ML pipeline (preprocessing → features → training → evaluation) served via a CRUD REST API
