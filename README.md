@@ -55,5 +55,4 @@ Hybrid framework combining U-Net segmentation, GAN-based synthetic tumor generat
 
 ### 📊 GitHub Stats
 
-![Huda's GitHub stats](https://github-readme-stats.vercel.app/api?username=h-arshadd&show_icons=true&theme=default&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=h-arshadd&layout=compact&hide_border=true)
