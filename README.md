@@ -5,7 +5,7 @@ Computer Science student building full-stack AI systems, from real-time computer
 BS Computer Science, National University of Modern Languages (NUML) · CGPA 3.7
 Currently exploring agentic AI: LLM agents layered over classical CS pipelines
 
-[LinkedIn](https://linkedin.com/in/huda-a-bb4496319) · [Email](mailto:hudaarshad2004@email.com)
+[LinkedIn](https://linkedin.com/in/huda-a-bb4496319) · [Email](mailto:hudaarshad2004@gmail.com)
 
 ---
 
